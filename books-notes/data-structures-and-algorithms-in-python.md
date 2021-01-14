@@ -8,7 +8,7 @@ Student companion site: http://bcs.wiley.com/he-bcs/Books?action=index&itemId=11
   - [x] 3.3 Asymptotic Analysis
   - [x] 3.4 Simple Justification Techniques
   - [x] 3.5 Exercises
-- [ ] Chapter 7: Linked LIsts
-  - [ ] 7.1 Singly Linked Lists
-  - [ ] 7.2 Circularly Linked Lists
+- [ ] Chapter 7: Linked Lists
+  - [x] 7.1 Singly Linked Lists
+  - [x] 7.2 Circularly Linked Lists
   - [ ] 7.3 Doubly Linked Lists
